@@ -1,8 +1,7 @@
 @font-face {
-  font-family: 'Ginto Copilot';
+  font-family: 'Gabbar';
   src: url('./Gabbar.woff2') format('woff2');
 }
-
 
 :root {
   --ff-1: "Gabbar", sans-serif
